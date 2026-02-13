@@ -15,9 +15,9 @@ Một trang web Valentine lãng mạn với hiệu ứng động và thư tình 
 ### Phương pháp 1: Sử dụng GitHub Pages (Khuyên dùng)
 
 1. **Truy cập trực tiếp qua GitHub Pages:**
-   - Nếu đã bật GitHub Pages, truy cập: `https://<username>.github.io/hihihinguyenvanduong/`
-   - Hoặc: `https://<username>.github.io/hihihinguyenvanduong/index.html`
-   - Hoặc trang valentine: `https://<username>.github.io/hihihinguyenvanduong/valentine.html`
+   - Nếu đã bật GitHub Pages, truy cập: `https://vbx6623-dev.github.io/hihihinguyenvanduong/`
+   - Hoặc: `https://vbx6623-dev.github.io/hihihinguyenvanduong/index.html`
+   - Hoặc trang valentine: `https://vbx6623-dev.github.io/hihihinguyenvanduong/valentine.html`
 
 2. **Cách bật GitHub Pages:**
    - Vào Settings của repository
